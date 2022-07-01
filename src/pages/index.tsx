@@ -2,7 +2,6 @@ const Index =() => {
     return
     <>
     <p>Hello, World!!!!!</p>
-    <p>hello</p>
     </>
 }
 
